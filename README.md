@@ -1,7 +1,10 @@
 # CLIP4CLIP Fine-tuning try
+## For Incheon
 <b>The code works according to the MSVD dataset format.</b>
 
+
 # CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval
+
 
 The implementation of paper [**CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**](https://arxiv.org/abs/2104.08860). 
 
